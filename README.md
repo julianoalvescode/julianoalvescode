@@ -5,7 +5,6 @@ but with focus on Front-end for a few years now.
 
 Skills: ANGULAR JS & TS / REACT JS & TS / JS / HTML5 / CSS3
 
-- 🔭 I’m currently working on https://github.com/alliedbr 
 - 🌱 I’m currently learning React Native 
 
 
