@@ -3,7 +3,7 @@
 Hello brother, my name is Juliano Alves but you can call me Blackbeard. I'm a Fullstack Developer
 but with focus on Front-end for a few years now.
 
-Skills: ANGULAR JS & TS / REACT JS & TS / JS / HTML5 / CSS3
+Skills: ANGULAR JS & TS / REACT JS & TS / GATSBY / NEXT.JS / NODE JS & TS / JS / HTML5 / CSS3
 
 - 🌱 I’m currently learning React Native 
 
