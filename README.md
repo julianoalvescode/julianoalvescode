@@ -3,9 +3,9 @@
 Hello brother, my name is Juliano Alves but you can call me Blackbeard. I'm a Fullstack Developer
 but with focus on Front-end for a few years now.
 
-Skills: ANGULAR JS & TS / REACT JS & TS / GATSBY / NEXT.JS / NODE JS & TS / JS / HTML5 / CSS3
+Skills: ANGULAR JS & TS / REACT JS & TS / GATSBY / NEXT.JS / NODE JS & TS / ADOBE AEM | JS / HTML5 / CSS3
 
-- 🌱 I’m currently learning React Native 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/julianoalvescode)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angularjs.svg' alt='angularjs' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](#)  
