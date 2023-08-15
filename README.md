@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Juliano Alves
 #### I'm Front-end Developer
-Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Fullstack Developer
-but with focus on Front-end for a few years now.
+Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Front-end developer
 
-Skills: ANGULAR JS & TS / REACT JS & TS / GATSBY / NEXT.JS / NODE JS & TS / ADOBE AEM | JS / HTML5 / CSS3
+Skills: REACT JS & TS / GATSBY / NEXT.JS / NODE JS & TS / ADOBE AEM | JS / HTML5 / CSS3
 
 
 
