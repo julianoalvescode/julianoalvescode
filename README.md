@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Juliano Alves
-#### I'm Front-end Developer
+
 Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Fullstack Developer
 
 ## Skills
