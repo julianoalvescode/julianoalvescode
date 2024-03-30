@@ -5,6 +5,8 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianoalves7/)](https://www.linkedin.com/in/julianoalves7/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/julianoalvescode)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato.julianoalvess@gmail.com)](mailto:contato.julianoalvess@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/0S6PVzGHAvLDrIoOlnhCCI)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@enixcast6527)
 
 
 ## Frontend
