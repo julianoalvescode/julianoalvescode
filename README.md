@@ -93,3 +93,8 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julianoalvescode)  
 
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoalvescode&layout=compact&theme=radical" alt="julianoalvescode most languages"/>
+</p>
+
