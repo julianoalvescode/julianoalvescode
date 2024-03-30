@@ -1,6 +1,6 @@
-## Hi there 👋, my name is Juliano Alves
+## Hi there 👋
 
-Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Fullstack Developer
+Sou Juliano Alves, desenvolvedor fullstack apaixonado por transformar ideias em código. Comprometido com a excelência técnica, estou pronto para enfrentar desafios e contribuir para projetos inspiradores. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianoalves7/)](https://www.linkedin.com/in/julianoalves7/)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/julianoalvescode)
