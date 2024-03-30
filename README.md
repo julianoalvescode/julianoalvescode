@@ -32,7 +32,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Acessibilidade](https://img.shields.io/badge/-Acessibilidade-1389FD?style=for-the-badge&logo=accessibility&logoColor=white)
 
 
-## Protótipo
+## Prototype
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
@@ -70,7 +70,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 
 
 
-## Ferramentas
+## Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -88,6 +88,8 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
+## Statistics
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoalvescode&show_icons=true)  
 
@@ -97,4 +99,3 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoalvescode&layout=compact&theme=radical" alt="julianoalvescode most languages"/>
 </p>
-
