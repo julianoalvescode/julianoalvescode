@@ -72,7 +72,6 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Amazon Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-4F0599?style=for-the-badge&logo=websocket&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-00FF00?style=for-the-badge&logo=linux&logoColor=white)
 
 
 
@@ -99,6 +98,8 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-00FF00?style=for-the-badge&logo=linux&logoColor=white)
+
 
 
 ## CMS
@@ -107,6 +108,10 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+
+## My plugin for Visual Studio Code
+
+[![Doroty_Thime](https://img.shields.io/badge/Doroty_Thime-FFA500?style=for-the-badge&logo=plug&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=JulianoALves.dorothy-time)
 
 
 
