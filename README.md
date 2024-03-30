@@ -32,6 +32,9 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-47A248?style=for-the-badge&logo=seo&logoColor=white)
 ![Acessibilidade](https://img.shields.io/badge/-Acessibilidade-1389FD?style=for-the-badge&logo=accessibility&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+
 
 
 ## Mobile
@@ -68,6 +71,8 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Amazon DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Amazon Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4F0599?style=for-the-badge&logo=websocket&logoColor=white)
+
 
 
 
@@ -100,6 +105,9 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Adobe Experience Manager](https://img.shields.io/badge/-Adobe%20Experience%20Manager-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+
+
 
 
 ## Statistics
