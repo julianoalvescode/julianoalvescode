@@ -9,12 +9,12 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@enixcast6527)
 
 
+
 ## Frontend
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-lightyellow?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-lightblue?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![VUEJS](https://img.shields.io/badge/-Vue-lightgreen?style=for-the-badge&logo=vue.js)
@@ -32,6 +32,16 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-47A248?style=for-the-badge&logo=seo&logoColor=white)
 ![Acessibilidade](https://img.shields.io/badge/-Acessibilidade-1389FD?style=for-the-badge&logo=accessibility&logoColor=white)
+
+
+## Mobile
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sua.id.do.aplicativo)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/br/app/sua-app/idxxxxxx)
+
 
 
 ## Prototype
@@ -57,6 +67,8 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Apigee](https://img.shields.io/badge/-Apigee-FF5722?style=for-the-badge&logo=apigee&logoColor=white)
 ![Amazon DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Amazon Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
 
 
 
