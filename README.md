@@ -10,7 +10,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 
 
 
-## Frontend
+## 💻 Frontend
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-lightyellow?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-lightblue?style=for-the-badge&logo=typescript)
@@ -55,7 +55,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 
 
 
-## Backend
+## ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-lightgreen?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-lightblue?style=for-the-badge&logo=express)
@@ -78,7 +78,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 
 
 
-## Cloud
+## ⚙️ Cloud
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -90,7 +90,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 
 
 
-## Tools
+## ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -120,9 +120,9 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ## Statistics
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoalvescode&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoalvescode&show_icons=true&theme=radical)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julianoalvescode)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julianoalvescode&theme=radical)  
 
 
 <p align="left">
