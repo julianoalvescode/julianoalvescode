@@ -7,7 +7,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato.julianoalvess@gmail.com)](mailto:contato.julianoalvess@gmail.com)
 
 
-### Frontend
+## Frontend
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-lightyellow?style=for-the-badge&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-lightblue?style=for-the-badge&logo=typescript)
@@ -32,7 +32,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Acessibilidade](https://img.shields.io/badge/-Acessibilidade-1389FD?style=for-the-badge&logo=accessibility&logoColor=white)
 
 
-### Protótipo
+## Protótipo
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
@@ -40,7 +40,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 
 
 
-### Backend
+## Backend
 
 ![Node.js](https://img.shields.io/badge/-Node.js-lightgreen?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-lightblue?style=for-the-badge&logo=express)
@@ -58,7 +58,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 
 
 
-### Cloud
+## Cloud
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -70,7 +70,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 
 
 
-### Ferramentas
+## Ferramentas
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -81,7 +81,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
-### CMS
+## CMS
 
 ![Adobe Experience Manager](https://img.shields.io/badge/-Adobe%20Experience%20Manager-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
