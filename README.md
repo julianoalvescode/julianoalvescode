@@ -72,6 +72,7 @@ Hello there, my name is Juliano Alves but you can call me Blackbeard. I'm a Full
 ![Amazon Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-4F0599?style=for-the-badge&logo=websocket&logoColor=white)
+![WSL2](https://img.shields.io/badge/WSL2-00FF00?style=for-the-badge&logo=linux&logoColor=white)
 
 
 
