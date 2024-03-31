@@ -109,6 +109,15 @@ Sou Juliano Alves, desenvolvedor fullstack apaixonado por transformar ideias em 
 ![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+## Projects
+
+[![Prudential do Brasil](https://img.shields.io/badge/Prudential_do_Brasil-00589D?style=for-the-badge)](https://www.prudential.com.br/)
+[![Sanofi](https://img.shields.io/badge/Sanofi-663399?style=for-the-badge)](https://www.programaviva.com.br/)
+[![TIM Pós](https://img.shields.io/badge/TIM_Pós-FF6600?style=for-the-badge)](https://pos.tim.com.br/)
+[![TIM Carro Conectado](https://img.shields.io/badge/TIM_Carro_Conectado-FF6600?style=for-the-badge)](https://pos.tim.com.br/carroconectado/)
+[![Toolzz Learn](https://img.shields.io/badge/Toolzz_Learn-008080?style=for-the-badge)](https://toolzz.com.br/learn)
+
+
 
 ## My plugin for Visual Studio Code
 
