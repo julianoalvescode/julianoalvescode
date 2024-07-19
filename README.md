@@ -117,6 +117,7 @@ Sou Juliano Alves, desenvolvedor fullstack apaixonado por transformar ideias em 
 [![TIM Carro Conectado](https://img.shields.io/badge/TIM_Carro_Conectado-FF6600?style=for-the-badge)](https://pos.tim.com.br/carroconectado/)
 [![Toolzz Learn](https://img.shields.io/badge/Toolzz_Learn-008080?style=for-the-badge)](https://toolzz.com.br/learn)
 [![Transfero](https://img.shields.io/badge/Transfero-663399?style=for-the-badge)](https://transfero.com/)
+[![Transfero Crypto](https://img.shields.io/badge/Transfero_Crypto-663399?style=for-the-badge)](https://app.transfero.com/)
 
 
 
