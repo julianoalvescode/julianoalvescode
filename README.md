@@ -100,11 +100,6 @@ I built **[Dorothy Time](https://marketplace.visualstudio.com/items?itemName=Jul
   <img src="https://streak-stats.demolab.com?user=julianoalvescode&theme=radical&hide_border=true" alt="streak" />
 </p>
 
-<!-- ===== ANIMATED CONTRIBUTION GRAPH ===== -->
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=julianoalvescode&theme=redical&hide_border=true&area=true&color=F75C7E&line=F75C7E&point=ffffff" alt="activity graph" />
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=julianoalvescode&theme=radical&no-frame=true&column=7&margin-w=5" alt="trophies" />
 </p>
