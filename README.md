@@ -1,141 +1,162 @@
-## Hi there 👋
+<!--
+  Profile README for github.com/julianoalvescode
+  Drop this file into the repo named exactly `julianoalvescode/julianoalvescode`.
+  Some animations need one-time setup — see the notes at the bottom of this file.
+-->
 
-Sou Juliano Alves, desenvolvedor fullstack apaixonado por transformar ideias em código. Comprometido com a excelência técnica, estou pronto para enfrentar desafios e contribuir para projetos inspiradores. 
+<!-- ===== ANIMATED HEADER ===== -->
+<a href="https://github.com/julianoalvescode">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Juliano%20Alves&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Rio%20de%20Janeiro,%20Brazil&descSize=18&descAlignY=58" alt="header" />
+</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianoalves7/)](https://www.linkedin.com/in/julianoalves7/)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/julianoalvescode)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contato.julianoalvess@gmail.com)](mailto:contato.julianoalvess@gmail.com)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/0S6PVzGHAvLDrIoOlnhCCI)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@enixcast6527)
-
-
-
-## 💻 Frontend
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-lightyellow?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-lightblue?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![VUEJS](https://img.shields.io/badge/-Vue-lightgreen?style=for-the-badge&logo=vue.js)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-orange?style=for-the-badge&logo=css3)
-![Jest](https://img.shields.io/badge/-Jest-red?style=for-the-badge&logo=jest)
-![Antdesign](https://img.shields.io/badge/-Antdesign-blue?style=for-the-badge&logo=antdesign)
-![Material-UI](https://img.shields.io/badge/-MUI-lightblue?style=for-the-badge&logo=mui)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Stitches](https://img.shields.io/badge/-Stitches-7928CA?style=for-the-badge&logo=stitches&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-000000?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![SEO](https://img.shields.io/badge/-SEO-47A248?style=for-the-badge&logo=seo&logoColor=white)
-![Acessibilidade](https://img.shields.io/badge/-Acessibilidade-1389FD?style=for-the-badge&logo=accessibility&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-
-
-
-## Mobile
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=sua.id.do.aplicativo)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/br/app/sua-app/idxxxxxx)
-
-
-
-## Prototype
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Zeplin](https://img.shields.io/badge/-Zeplin-FB8C00?style=for-the-badge&logo=zeplin&logoColor=white)
-
-
-
-## ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/-Node.js-lightgreen?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-lightblue?style=for-the-badge&logo=express)
-![Fastify](https://img.shields.io/badge/-Fastify-orange?style=for-the-badge&logo=fastify)
-![Prisma](https://img.shields.io/badge/-Prisma-663399?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Apigee](https://img.shields.io/badge/-Apigee-FF5722?style=for-the-badge&logo=apigee&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
-![Amazon Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4F0599?style=for-the-badge&logo=websocket&logoColor=white)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-
-
-
-
-
-## ⚙️ Cloud
-
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![AWS CloudFront](https://img.shields.io/badge/-AWS%20CloudFront-FF9900?style=for-the-badge&logo=amazon-cloudfront&logoColor=white)
-![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=for-the-badge&logo=aws-amplify&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-
-## ⚙️ Tools
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-00FF00?style=for-the-badge&logo=linux&logoColor=white)
-
-
-
-## CMS
-
-![Adobe Experience Manager](https://img.shields.io/badge/-Adobe%20Experience%20Manager-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
-![Contentful](https://img.shields.io/badge/-Contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-## Projects
-
-[![Prudential do Brasil](https://img.shields.io/badge/Prudential_do_Brasil-00589D?style=for-the-badge)](https://www.prudential.com.br/)
-[![Sanofi](https://img.shields.io/badge/Sanofi-663399?style=for-the-badge)](https://www.programaviva.com.br/)
-[![TIM Pós](https://img.shields.io/badge/TIM_Pós-FF6600?style=for-the-badge)](https://pos.tim.com.br/)
-[![TIM Carro Conectado](https://img.shields.io/badge/TIM_Carro_Conectado-FF6600?style=for-the-badge)](https://pos.tim.com.br/carroconectado/)
-[![Toolzz Learn](https://img.shields.io/badge/Toolzz_Learn-008080?style=for-the-badge)](https://toolzz.com.br/learn)
-[![Transfero](https://img.shields.io/badge/Transfero-663399?style=for-the-badge)](https://transfero.com/)
-[![Transfero Crypto](https://img.shields.io/badge/Transfero_Crypto-663399?style=for-the-badge)](https://app.transfero.com/)
-
-
-
-## My plugin for Visual Studio Code
-
-[![Doroty_Thime](https://img.shields.io/badge/Doroty_Thime-FFA500?style=for-the-badge&logo=plug&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=JulianoALves.dorothy-time)
-
-
-
-
-## Statistics
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=julianoalvescode&show_icons=true&theme=radical)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=julianoalvescode&theme=radical)  
-
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoalvescode&layout=compact&theme=radical" alt="julianoalvescode most languages"/>
+<!-- ===== TYPING INTRO ===== -->
+<p align="center">
+  <a href="https://github.com/julianoalvescode">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Turning+ideas+into+code+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+AWS;VS+Code+extension+author;Excellence+as+a+habit%2C+not+a+goal" alt="Typing SVG" />
+  </a>
 </p>
+
+<!-- ===== SOCIAL ===== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/julianoalves7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://julianoalves.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://dev.to/julianoalvescode"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
+  <a href="mailto:contato.julianoalvess@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://open.spotify.com/show/0S6PVzGHAvLDrIoOlnhCCI"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
+  <a href="https://www.youtube.com/@enixcast6527"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=julianoalvescode&label=Profile%20views&color=F75C7E&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/julianoalvescode?label=Followers&style=flat&color=F75C7E" alt="Followers" />
+</p>
+
+<!-- ===== ABOUT ===== -->
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
+
+### 🚀 About me
+
+- 🇧🇷 Fullstack developer based in **Rio de Janeiro, Brazil**
+- 💡 I turn ideas into code — committed to clean, maintainable solutions
+- 🧩 Shipped work for **Prudential**, **Sanofi**, **TIM**, **Toolzz** and **Transfero**
+- 🛠️ Author of **[Dorothy Time](https://marketplace.visualstudio.com/items?itemName=JulianoALves.dorothy-time)**, a time tracker for coders on the VS Code Marketplace
+- 🎙️ I run a tech podcast / YouTube channel
+- 📫 **contato.julianoalvess@gmail.com**
+
+> _"The pursuit of excellence should not be a goal, but a habit."_
+
+<br clear="right" />
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,vue,tailwind,styledcomponents,sass,jest&theme=dark" alt="frontend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=reactnative,apple,android,sqlite&theme=dark" alt="mobile" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,nestjs,prisma,postgres,mysql,mongodb,redis,firebase&theme=dark" alt="backend" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,gitlab,vscode,figma&theme=dark" alt="cloud-tools" />
+</p>
+
+---
+
+### 🧩 VS Code Extension
+
+I built **[Dorothy Time](https://marketplace.visualstudio.com/items?itemName=JulianoALves.dorothy-time)** — a simple, no-friction time tracker for your code, right inside the editor.
+
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=JulianoALves.dorothy-time">
+    <img src="https://img.shields.io/visual-studio-marketplace/v/JulianoALves.dorothy-time?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Dorothy%20Time&color=007ACC" alt="version" />
+    <img src="https://img.shields.io/visual-studio-marketplace/i/JulianoALves.dorothy-time?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Installs&color=1f9cf0" alt="installs" />
+    <img src="https://img.shields.io/visual-studio-marketplace/r/JulianoALves.dorothy-time?style=for-the-badge&logo=visual-studio-code&logoColor=white&label=Rating&color=0ea5e9" alt="rating" />
+  </a>
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[onicloth](https://github.com/julianoalvescode/onicloth)** | E-commerce built with Next.js 14 — Open Graph, API routes | TypeScript · Next.js |
+| **[gym-api-node](https://github.com/julianoalvescode/gym-api-node)** | REST API for gyms | TypeScript · Node.js |
+| **[morty-app](https://github.com/julianoalvescode/morty-app)** | Interactive portal from the Rick and Morty universe | TypeScript · React |
+| **[logs-frontend](https://github.com/julianoalvescode/logs-frontend)** | Fast logging tool for the frontend | TypeScript |
+| **[dorothy-time](https://github.com/julianoalvescode/dorothy-time)** | A simple time tracker for code (VS Code extension) | TypeScript |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=julianoalvescode&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianoalvescode&layout=compact&theme=radical&hide_border=true" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=julianoalvescode&theme=radical&hide_border=true" alt="streak" />
+</p>
+
+<!-- ===== ANIMATED CONTRIBUTION GRAPH ===== -->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=julianoalvescode&theme=redical&hide_border=true&area=true&color=F75C7E&line=F75C7E&point=ffffff" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=julianoalvescode&theme=radical&no-frame=true&column=7&margin-w=5" alt="trophies" />
+</p>
+
+<!-- ===== SNAKE EATING CONTRIBUTIONS (needs the workflow below) ===== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julianoalvescode/julianoalvescode/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<!-- ===== WAVING FOOTER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Let's%20build%20something%20great!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer" />
+
+<!--
+  ========================================================================
+  ONE-TIME SETUP TO MAKE THE SNAKE ANIMATION WORK
+  ------------------------------------------------------------------------
+  The snake image above is generated by a GitHub Action that reads your
+  contribution grid and commits an SVG to an "output" branch.
+
+  1) In the repo julianoalvescode/julianoalvescode create the file
+     .github/workflows/snake.yml  with the content below.
+  2) Push to main. The action runs on a schedule (and on push) and creates
+     the `output` branch with the SVG the <img> above points at.
+
+  --- .github/workflows/snake.yml ---------------------------------------
+  name: Generate Snake
+  on:
+    schedule:
+      - cron: "0 */12 * * *"
+    workflow_dispatch:
+    push:
+      branches: [main]
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      permissions:
+        contents: write
+      steps:
+        - uses: Platane/snk/svg-only@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            target_branch: output
+            build_dir: dist
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  -----------------------------------------------------------------------
+
+  Until the action has run once, the snake <img> shows a broken image.
+  If you don't want it, just delete the "SNAKE EATING CONTRIBUTIONS" block.
+  ========================================================================
+-->
